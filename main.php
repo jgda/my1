@@ -61,8 +61,7 @@
 									<img src="plugins/my1/assets/img/rsz_meqlab4.jpg"/>
 									<img src="plugins/my1/assets/img/rsz_meqlab5.jpg"/>
 								</div>
-								<button class="prevBtn"></button>
-								<button class="nextBtn"></button>
+								<bu<button class="nextBtn"></button>
 							</div>
 							<!--// #slideBox -->
 							<div class="feature">
@@ -118,11 +117,10 @@
 							<!-- #slideBox -->
 							<div class="slideBox">
 								<div class="imgs">
-									<img src="plugins/my1/assets/img/rsz_meqlab1.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab2.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab3.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab4.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab5.jpg"/>
+									<img src="plugins/my1/assets/img/PQLab3_re.jpg"/>
+									<img src="plugins/my1/assets/img/PQLab4_re.jpg"/>
+									<img src="plugins/my1/assets/img/PQLab5_re.jpg"/>
+									<img src="plugins/my1/assets/img/PQLab6_re.jpg"/>
 								</div>
 								<button class="prevBtn"></button>
 								<button class="nextBtn"></button>
@@ -181,11 +179,8 @@
 							<!-- #slideBox -->
 							<div class="slideBox">
 								<div class="imgs">
-									<img src="plugins/my1/assets/img/rsz_meqlab1.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab2.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab3.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab4.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab5.jpg"/>
+									<img src="plugins/my1/assets/img/FastLab1_re.jpg"/>
+									<img src="plugins/my1/assets/img/FastLab2_re.jpg"/>
 								</div>
 								<button class="prevBtn"></button>
 								<button class="nextBtn"></button>
@@ -243,11 +238,10 @@
 							<!-- #slideBox -->
 							<div class="slideBox">
 								<div class="imgs">
-									<img src="plugins/my1/assets/img/rsz_meqlab1.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab2.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab3.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab4.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab5.jpg"/>
+									<img src="plugins/my1/assets/img/FS380_FS360_1_re.jpg"/>
+									<img src="plugins/my1/assets/img/FS380_FS360_2_re.jpg"/>
+									<img src="plugins/my1/assets/img/FS380_FS360_3_re.jpg"/>
+									<img src="plugins/my1/assets/img/FS380_FS360_4_re.jpg"/>
 								</div>
 								<button class="prevBtn"></button>
 								<button class="nextBtn"></button>
@@ -306,12 +300,11 @@
 							<!-- #slideBox -->
 							<div class="slideBox">
 								<div class="imgs">
-									<img src="plugins/my1/assets/img/rsz_meqlab1.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab2.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab3.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab4.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab5.jpg"/>
-								</div>
+									<img src="plugins/my1/assets/img/NC300_1_re.jpg"/>
+									<img src="plugins/my1/assets/img/NC300_2_re.jpg"/>
+									<img src="plugins/my1/assets/img/NC300_3_re.jpg"/>
+									<img src="plugins/my1/assets/img/NC300_4_re.jpg"/>
+								 </div>
 								<button class="prevBtn"></button>
 								<button class="nextBtn"></button>
 							</div>
@@ -369,11 +362,9 @@
 							<!-- #slideBox -->
 							<div class="slideBox">
 								<div class="imgs">
-									<img src="plugins/my1/assets/img/rsz_meqlab1.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab2.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab3.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab4.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab5.jpg"/>
+									<img src="plugins/my1/assets/img/NC300L1_re.jpg"/>
+									<img src="plugins/my1/assets/img/NC300L2_re.jpg"/>
+									<img src="plugins/my1/assets/img/NC300L3_re.jpg"/>
 								</div>
 								<button class="prevBtn"></button>
 								<button class="nextBtn"></button>
@@ -432,11 +423,9 @@
 							<!-- #slideBox -->
 							<div class="slideBox">
 								<div class="imgs">
-									<img src="plugins/my1/assets/img/rsz_meqlab1.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab2.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab3.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab4.jpg"/>
-									<img src="plugins/my1/assets/img/rsz_meqlab5.jpg"/>
+									<img src="plugins/my1/assets/img/PT128-B_1_re.jpg"/>
+									<img src="plugins/my1/assets/img/PT128-B_2_re.jpg"/>
+									<img src="plugins/my1/assets/img/PT128-B_3_re.jpg"/>
 								</div>
 								<button class="prevBtn"></button>
 								<button class="nextBtn"></button>
