@@ -13,16 +13,16 @@ div.container_wrap {
 	font-size: 12px;
 }
 .banner {
-	background: #9c0b57;
+	background: #fff;
 	text-align: center;
 	padding: 30px 0;
 	font-size: 32px;
 	font-weight: bold;
-	color: #f9d3e7;
-	width:1200px;
+	color: #7FB41C;
+	/*width:1200px;*/
 }
 div.container_box {
-	width: 1200px;
+	/*width: 1200px;*/
 	margin: 0 auto;
 	background-color: #fff;
 }
@@ -46,7 +46,7 @@ div.container_box {
 }
 .tabs > ul.tab-links {
 	min-height: 30px;
-	background: #edb544;
+	background:#052E86;
 	font-size: 12px;
 	text-align: center;
 }
@@ -121,7 +121,7 @@ ul.tab-links > li > a:hover, ul.tab-links > li.active_subTab a {
 	background: rgba(0,0,0,0);
 }
 
-.prevBtn:hover {
+div#sub-container.sub-container button.prevBtn:hover {
 	background: rgba(0,0,0,.3);
 	cursor: url(http://www.junggu-da.com/plugins/my1/assets/img/btn_prev_2.cur.ico) 32 0, pointer;
 }
@@ -152,7 +152,7 @@ ul.tab-links > li > a:hover, ul.tab-links > li.active_subTab a {
 /*-----// Image slide box -----*/
 
 h2.meqlab {
-	background: #1f97d0;
+	background: #2CA8E4;
 	color: #fff;
 	font-size: 18px;
 	line-height: 30px;
@@ -190,13 +190,6 @@ h2.meqlab {
 	padding: 10px;
 }
 
-/*.feature_title_name {
- display: block;
- margin: 0;
- padding-left: 10px;
- font-size: 1.5em;
- font-weight: bolder;
- }*/
 .feature_title_name {
 	display: block;
 	margin: 15px 0px 10px 0px;
@@ -227,7 +220,6 @@ h2.meqlab {
 
 .feature {
 	position: relative;
-	/*min-height: 210px;*/
 	max-height: 510px;
 	margin: 0px 20px 10px 20px;
 }
@@ -254,7 +246,7 @@ div.text_content > .dd {
 	color: #484848;
 	list-style: none;
 	float: left;
-	width: 40%;
+	width: 50%;
 	margin: 0;
 	margin-bottom: 20px;
 	height: 90px;
