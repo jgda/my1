@@ -133,7 +133,7 @@
 										Automatically QA PDK to ensure Quality</span>
 								</div>
 							</div>
-							<h2 class="meqlab"> Technical Introduction</h2>
+							<h2 class="meqlab"> Product Introduction</h2>
 							<div class="text_content">
 								<div class="dd">
 									<div class="title">
@@ -189,28 +189,35 @@
 							<div class="feature">
 								<div class="text_stress">
 									<span class="feature_title_name">Parametric Test -  FastLab™
-										<br>Industry's Fastest Noise Characterization Solution</span>
+										<br>Software For All Semiconductor Tests</span>
 								</div>
 							</div>
-							<h2 class="meqlab"> Technical Information</h2>
+							<h2 class="meqlab"> Product Introduction</h2>
 							<div class="text_content">
 								<div class="dd">
 									<div class="title">
-										10X Faster Than Current Solutions
+										Features
 									</div>
-									Average 15 seconds per bias with better resolution and bandwidth, enables statistical noise measurement
+									FastLab is a software that controls instruments in a semiconductor lab to achieve measuring DUT IV and CV characteristics.
+									<br>It can be correlated with MeQLab or other Analysis tools for data outputs and form a complete modeling platform.
 								</div>
 								<div class="dd">
 									<div class="title">
-										The Only Solution That Measures Noise of pA current
+										Device Supported						
 									</div>
-									Suitable for analog applications as well as measuring noise of small current, such as dark current of photo diodes
+									Mosfet / MosSOI / BJT
+									<br> 
+									 Diode / Capacitor / Resistor
 								</div>
 								<div class="dd">
 									<div class="title">
-										All New Architect Ensures the Lowest Noise Floor
+										Instrument Supported
 									</div>
-									Self-adjust calibration enables system plug&amp;play at any lab, no tedious installation, available for evaluation
+									 Meter: FS360/FS380/B1500/HP4284/HP4156/E4980
+									<br> 
+									 Matrix: K707/E5250A/B2200
+									<br> 
+									 Prober: Cascade Semi-Auto PA300/S300
 								</div>
 								<div class="dd">
 									<div class="title">
